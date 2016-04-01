@@ -37,6 +37,11 @@ To be sure that everything is working ok you can run the test by calling php bru
 
 The test keychain is encrypted with 123456 password so you should get this password as result of the test.
 
+## Dependencies
+It relies on following PHP extensions:
+* [Hash](http://php.net/manual/en/book.hash.php)
+* [Mcrypt](http://php.net/manual/en/book.mcrypt.php)
+
 ## Contacts
 Feel free to email me at antalos@gmail.com
 
